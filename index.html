@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Paper Scissors</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+    <div class="header"><h1>Rock Paper Scissors</h1></div>
+    <div class="full-container">
+    <div class="reset-button">Reset</div>
+    <div class="twenty-twenty hide">
+        <img src="/20-20.jpg" alt="">
+    </div>
+    <div class="toggle-theme">
+        <span class="mode light-text hide-moon"><i class="fa-solid fa-moon"></i></span>
+        <span class="mode dark-text"><i class="fa-solid fa-sun"></i></span>
+        <div class="circle  "></div>
+    </div>
+    <div class="choices " >
+        <div class="choice" id="rock">
+            <img src="/rock.png" alt="img1">
+        </div>
+        <div class="choice" id="paper">
+            <img src="/paper.png" alt="img1">
+        </div>
+        <div class="choice" id="scissors">
+            <img src="/scissors.png" alt="img1">
+        </div>
+    </div>
+
+<div class="custom-play">
+    <div class="1v1 " id="versus">
+        <img src="1v1.jpg" alt="">
+    </div>
+    <div class="leaderboard">
+        <img src="leaderboard.jpg" alt="">
+    </div>
+</div>
+
+    <div class="score-board">
+        <div class="score">
+        <p id="user-score">0</p>
+        <p>You</p>
+        </div>
+        <div class="score">
+        <p id="comp-score">0</p>
+        <p>Comp</p>
+        </div>
+    </div>
+
+    <div class="msg-container">
+        <p id="msg">Play Your Move</p>
+    </div>
+</div>
+<div class="winner-page none">
+    <div class="winner">
+        <img src="thumbup.webp" alt="" id="img-win">
+    </div>
+    <div class="winner-msg">Congrats You Win Against Computer</div>
+    <div class="new-game">New Game</div>
+    </div>
+    <script src="game.js"></script>
+</body>
+</html>
