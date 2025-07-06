@@ -3,7 +3,7 @@
 Rock Paper Scissors Game 🎮 with exiciting Tournament feature.
 
 
-A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play as X or O against a friend — complete with win detection, UI feedback, and reset functionality!
+A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**. Play as X or O against a friend — complete with win detection, UI feedback, and reset functionality!
 
 
 ## 🚀 Features
@@ -27,8 +27,9 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 
 ## 📂 File Structure
 
-📁 tictactoe/
+📁 
 ├── index.html # Main HTML file
 ├── style.css # Styling for the game
 ├── game.js # Game logic and interactivity
+├── images # all the images used in the game
 └── README.md # This file
