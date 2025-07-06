@@ -1,30 +1,22 @@
-🎮 Rock Paper Scissors Game
+# 🎮 Rock Paper Scissors Game
 
-A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript — now with an exciting Tournament Mode! 🏆
+Welcome to the **Rock Paper Scissors Game** — a classic game reimagined in the browser with a twist!  
+Enjoy unlimited free play or jump into the **⚔️ Tournament Mode** where the first to score 5 points wins!  
+Built with **HTML**, **CSS**, and **JavaScript** — lightweight, fast, and fun!
 
-Play unlimited rounds in casual mode, or challenge yourself in tournament mode where the first to score 5 points wins!
+---
 
-🚀 Features
-🪨📄✂️ Classic Rock, Paper, Scissors gameplay
+## ✨ Features
 
-🏆 Tournament Mode – First to score 5 wins!
+🔹 **Classic Gameplay** — Rock 🪨, Paper 📄, Scissors ✂️  
+🔹 **Tournament Mode** — First to score 5 points wins the game 🏆  
+🔹 **Light/Dark Theme Toggle** — Smooth transitions 🌗  
+🔹 **Visual Feedback** — Hover/click animations and message updates 💬  
+🔹 **Scoreboard** — Tracks both player and computer scores 📊  
+🔹 **No Libraries Required** — Runs 100% in the browser 🧠  
+🔹 **Responsive UI** — Clean look across all devices 📱💻
 
-🔁 Reset and replay functionality
 
-🎨 Dark/Light theme toggle
-
-✨ Smooth hover and click animations
-
-💻 Pure HTML/CSS/JS – no dependencies
-
-🧠 Easy to customize or extend
-
-🛠️ Technologies Used
-HTML5
-
-CSS3
-
-JavaScript (ES6)
 
 
 
