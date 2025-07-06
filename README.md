@@ -2,12 +2,12 @@
 
 A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript — now with an exciting Tournament Mode! 🏆
 
-Play unlimited rounds in casual mode, or challenge yourself in tournament mode where the first to score 20 points wins!
+Play unlimited rounds in casual mode, or challenge yourself in tournament mode where the first to score 5 points wins!
 
 🚀 Features
 🪨📄✂️ Classic Rock, Paper, Scissors gameplay
 
-🏆 Tournament Mode – First to score 20 wins!
+🏆 Tournament Mode – First to score 5 wins!
 
 🔁 Reset and replay functionality
 
@@ -25,6 +25,8 @@ HTML5
 CSS3
 
 JavaScript (ES6)
+
+
 
 ---
 
