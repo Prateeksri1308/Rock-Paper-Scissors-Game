@@ -215,7 +215,7 @@ img{
     border-radius: 2rem;
 }
 .bg-img{
-    background-image: url(/comingSoon.jpg);
+    background-image: url(comingSoon.jpg);
     background-size: cover;
     /* object-fit: cover; */
     height: 50px;
